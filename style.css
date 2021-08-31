@@ -12,6 +12,8 @@ main{
 }
 footer{
     height: 50px;
+    padding-top: 50px;
+   
  }
 body{
     display: flex;
